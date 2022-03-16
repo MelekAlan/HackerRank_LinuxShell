@@ -19,4 +19,4 @@ COMMENT
 
 #!/bin/bash
 read -p "Please enter your input : " text
-cat $cut | cut -c 2,7 
+cat $text | cut -c 2,7 
